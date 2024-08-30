@@ -1,0 +1,77 @@
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.deps.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.runtimeconfig.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfo.cs
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\refint\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.genruntimeconfig.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\ref\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.deps.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.runtimeconfig.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfo.cs
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.sourcelink.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\refint\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.genruntimeconfig.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.Infrastructure\obj\Debug\net6.0\ref\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.deps.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.runtimeconfig.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfo.cs
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\refint\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.genruntimeconfig.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\ref\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.deps.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.runtimeconfig.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfo.cs
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\refint\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.genruntimeconfig.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\ref\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.deps.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.runtimeconfig.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.AssemblyInfo.cs
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\refint\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\EY.Energy.Infrastructure.genruntimeconfig.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.Infrastructure\obj\Debug\net6.0\ref\EY.Energy.Infrastructure.dll

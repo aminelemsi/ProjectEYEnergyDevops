@@ -1,0 +1,517 @@
+[
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "AssignRole",
+    "RelativePath": "api/Admin/assign-role",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.AssignRoleModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "BanedUser",
+    "RelativePath": "api/Admin/BanedUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.BanedOrValidateUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Admin/create-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.CreateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "GetCustomers",
+    "RelativePath": "api/Admin/customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "GetUserBlocked",
+    "RelativePath": "api/Admin/getallUserBlocked",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "GetManagersAndConsultants",
+    "RelativePath": "api/Admin/getallUserForEY",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "ValidUser",
+    "RelativePath": "api/Admin/ManageCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.BanedOrValidateUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AdminController",
+    "Method": "GetCustomersValid",
+    "RelativePath": "api/Admin/Validcustomers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Customer.AuthCustomerController",
+    "Method": "LoginCustomer",
+    "RelativePath": "api/AuthCustomer/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Customer.AuthCustomerController",
+    "Method": "SignupCustomer",
+    "RelativePath": "api/AuthCustomer/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.CreateCustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AuthenticationController",
+    "Method": "Login",
+    "RelativePath": "api/Authentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.AuthenticationController",
+    "Method": "Logout",
+    "RelativePath": "api/Authentication/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.ClientResponsesController",
+    "Method": "Get",
+    "RelativePath": "api/ClientResponses",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EY.Energy.Entity.ClientResponse, EY.Energy.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.ClientResponsesController",
+    "Method": "Create",
+    "RelativePath": "api/ClientResponses",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "response",
+        "Type": "EY.Energy.Entity.ClientResponse",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.ClientResponsesController",
+    "Method": "GetResponsesByFormId",
+    "RelativePath": "api/ClientResponses/form/{formId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EY.Energy.Entity.ClientResponse, EY.Energy.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "Get",
+    "RelativePath": "api/Forms",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[EY.Energy.Infrastructure.Entity.Form, EY.Energy.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "Create",
+    "RelativePath": "api/Forms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "form",
+        "Type": "EY.Energy.Infrastructure.Entity.Form",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EY.Energy.Infrastructure.Entity.Form",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "AutoSetNextQuestions",
+    "RelativePath": "api/Forms/{formId}/autoSetNextQuestions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "AddQuestion",
+    "RelativePath": "api/Forms/{formId}/questions",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "question",
+        "Type": "EY.Energy.Entity.Question",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "AddOption",
+    "RelativePath": "api/Forms/{formId}/questions/{questionId}/options",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "questionId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "option",
+        "Type": "EY.Energy.Entity.EY.Energy.Entity.Option",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "SetSubQuestion",
+    "RelativePath": "api/Forms/{formId}/questions/{questionId}/options/{optionId}/subQuestion",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "formId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "questionId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "optionId",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "subQuestion",
+        "Type": "EY.Energy.Entity.Question",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "Get",
+    "RelativePath": "api/Forms/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EY.Energy.Infrastructure.Entity.Form",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.Forms.FormsController",
+    "Method": "GetQuestionById",
+    "RelativePath": "api/Forms/questions/{questionId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "questionId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "EY.Energy.Entity.Question",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.UserController",
+    "Method": "AssignCustomerToConsultant",
+    "RelativePath": "api/User/AssignCustomerToConsultant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerUsername",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "consultantUsername",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.UserController",
+    "Method": "GetCustomersForConsultant",
+    "RelativePath": "api/User/Customers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.UserController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/User/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.ForgotPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.UserController",
+    "Method": "GetManagersAndConsultants",
+    "RelativePath": "api/User/GetAllConsultant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.UserController",
+    "Method": "GetMyProfile",
+    "RelativePath": "api/User/GetMyProfile",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.UserController",
+    "Method": "ResetPassword",
+    "RelativePath": "api/User/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.ResetPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EY.Energy.API.Controllers.UserController",
+    "Method": "UpdateProfile",
+    "RelativePath": "api/User/UpdateProfile",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "EY.Energy.Application.DTO.User.UpdateUserProfile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

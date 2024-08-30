@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  ey.energy.api:
+    image: ey.energy.api:latest
+    build:
+      context: .
+      dockerfile: EY.Energy.API/Dockerfile
+    ports:
+      - "8080:80"
+    environment:
+      ASPNETCORE_ENVIRONMENT: "Production"
+      MongoDbSettings__ConnectionString: "mongodb://ey-energy-mongodb:27017"
+      MongoDbSettings__DatabaseName: "energy"
+    volumes:
+      - ./EY.Energy.API/libs:/app/libs
+    depends_on:
+      - mongodb
+    networks:
+      - ey-energy-network
+
+  mongodb:
+    image: mongo:latest
+    container_name: ey-energy-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - ey-energy-network
+
+networks:
+  ey-energy-network:
+    driver: bridge
+
+volumes:
+  mongo_data:

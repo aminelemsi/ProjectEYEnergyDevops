@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "pk6M57FuTUZ3TFadLSQeXh3iIj1PWpV0DDr+Jv6hyKg=",
+  "Source": "EY.Energy.API",
+  "BasePath": "_content/EY.Energy.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EY.Energy.API\\wwwroot",
+      "Source": "EY.Energy.API",
+      "ContentRoot": "C:\\Users\\ounim\\Desktop\\ProjectAngular\\Devops\\EYEnergy-main\\EY.Energy.API\\wwwroot\\",
+      "BasePath": "_content/EY.Energy.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ounim\\Desktop\\ProjectAngular\\Devops\\EYEnergy-main\\EY.Energy.API\\wwwroot\\images\\logo.png",
+      "SourceId": "EY.Energy.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ounim\\Desktop\\ProjectAngular\\Devops\\EYEnergy-main\\EY.Energy.API\\wwwroot\\",
+      "BasePath": "_content/EY.Energy.API",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\appsettings.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.exe
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.deps.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.runtimeconfig.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.AssemblyReference.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfoInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfo.cs
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CoreCompileInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.EY.Energy.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EY.Energy.API.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EY.Energy.API.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EY.Energy.API.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\scopedcss\bundle\EY.Energy.API.styles.css
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energ.AD56F80A.Up2Date
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\refint\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.genruntimeconfig.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\obj\Debug\net6.0\ref\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\New folder\EY.Energy\EY.Energy.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\appsettings.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.exe
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.deps.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.runtimeconfig.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.AssemblyReference.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfoInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfo.cs
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CoreCompileInputs.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.sourcelink.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.EY.Energy.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EY.Energy.API.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EY.Energy.API.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EY.Energy.API.props
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\scopedcss\bundle\EY.Energy.API.styles.css
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energ.AD56F80A.Up2Date
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\refint\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.genruntimeconfig.cache
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\obj\Debug\net6.0\ref\EY.Energy.API.dll
+C:\Users\VZ325NY\OneDrive - EY\Desktop\Projet Pfe\EY.Energy\EY.Energy.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.AssemblyReference.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfoInputs.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfo.cs
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CoreCompileInputs.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.exe
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.deps.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.runtimeconfig.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.GridFS.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.pdb
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.EY.Energy.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EY.Energy.API.props
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EY.Energy.API.props
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EY.Energy.API.props
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\scopedcss\bundle\EY.Energy.API.styles.css
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CopyComplete
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\refint\EY.Energy.API.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.genruntimeconfig.cache
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\ref\EY.Energy.API.dll
+C:\Users\ounim\Desktop\PfeLivrable\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.staticwebassets.runtime.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\libs\libwkhtmltox.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.exe
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.deps.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.runtimeconfig.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\DinkToPdf.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.GridFS.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\XPlot.Plotly.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.core.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\en\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.pdb
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.AssemblyReference.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfoInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfo.cs
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CoreCompileInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.EY.Energy.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EY.Energy.API.props
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EY.Energy.API.props
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EY.Energy.API.props
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\scopedcss\bundle\EY.Energy.API.styles.css
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\refint\EY.Energy.API.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.genruntimeconfig.cache
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\ref\EY.Energy.API.dll
+C:\Users\ounim\Desktop\ProjectAngular\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CopyComplete
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\libs\libwkhtmltox.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\appsettings.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.staticwebassets.runtime.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.exe
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.deps.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.runtimeconfig.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\DinkToPdf.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\DnsClient.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Driver.GridFS.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\SendGrid.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Snappier.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\XPlot.Plotly.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.abstractions.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.assert.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.core.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\en\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Application.pdb
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\bin\Debug\net6.0\EY.Energy.Infrastructure.pdb
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.AssemblyReference.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfoInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.AssemblyInfo.cs
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CoreCompileInputs.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.EY.Energy.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.build.EY.Energy.API.props
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EY.Energy.API.props
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EY.Energy.API.props
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\scopedcss\bundle\EY.Energy.API.styles.css
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.csproj.CopyComplete
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\refint\EY.Energy.API.dll
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.pdb
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\EY.Energy.API.genruntimeconfig.cache
+C:\Users\ounim\Desktop\ProjectAngular\Devops\EYEnergy-main\EY.Energy.API\obj\Debug\net6.0\ref\EY.Energy.API.dll
