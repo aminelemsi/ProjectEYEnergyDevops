@@ -8,9 +8,9 @@ COPY . ./
 # Restaurer les dépendances du projet principal
 
 
-RUN dotnet restore EY.Energy.API/EY.Energy.API.csproj
+RUN dotnet restore 
 
-RUN dotnet publish EY.Energy.API/EY.Energy.API.csproj -c Release -o out
+RUN dotnet publish  -c Release -o out
 
 # Étape 2 : Construire l'image finale à partir de l'image runtime ASP.NET Core
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
