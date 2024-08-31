@@ -1,7 +1,6 @@
 # Étape 1 : Construire l'image à partir du SDK .NET
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-WORKDIR /src
-
+WORKDIR /App
 # Copier l'intégralité du contenu du projet dans le conteneur
 COPY . .
 
@@ -13,7 +12,8 @@ RUN dotnet publish "EY.Energy.API/EY.Energy.API.csproj" -c Release -o /app/publi
 
 # Étape 2 : Construire l'image finale à partir de l'image runtime ASP.NET Core
 FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
-WORKDIR /app
+WORKDIR /App
+
 COPY --from=build /app/publish .
 
 ENTRYPOINT ["dotnet", "EY.Energy.API.dll"]
