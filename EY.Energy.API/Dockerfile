@@ -11,7 +11,7 @@ COPY EY.Energy.Infrastructure/*.csproj ./EY.Energy.Infrastructure/
 RUN dotnet restore 
 COPY EY.Energy.API/. ./EY.Energy.API/
 COPY EY.Energy.Application/. ./EY.Energy.Application/
-COPY EY.Energy.Infrastructure/. ./EY.Energy.Application/
+COPY EY.Energy.Infrastructure/. ./EY.Energy.Infrastructure/
 
 
 WORKDIR /app/EY.Energy.API
