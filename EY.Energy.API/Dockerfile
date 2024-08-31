@@ -4,9 +4,7 @@ WORKDIR /app
 
 
 
-COPY EY.Energy.API/*.csproj ./EY.Energy.API/
-COPY EY.Energy.Application/*.csproj ./EY.Energy.Application/
-COPY EY.Energy.Infrastructure/*.csproj ./EY.Energy.Infrastructure/
+COPY . ./
 # Restaurer les dépendances du projet principal
 
 
