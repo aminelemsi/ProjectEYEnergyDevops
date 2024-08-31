@@ -1,6 +1,6 @@
 # Étape 1 : Construire l'image à partir du SDK .NET
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
-WORKDIR /src
+WORKDIR /app
 
 # Copier tout le code source dans le répertoire de travail
 COPY . .
