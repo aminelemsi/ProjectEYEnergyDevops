@@ -1,7 +1,7 @@
 # Utiliser l'image officielle .NET SDK pour construire l'application
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
 WORKDIR /app
-COPY . ./
+
 
 
 COPY EY.Energy.API/*.csproj ./EY.Energy.API/
