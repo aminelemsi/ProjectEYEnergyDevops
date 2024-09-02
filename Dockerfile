@@ -12,7 +12,7 @@ COPY . ./
 RUN dotnet publish EY.Energy.API/EY.Energy.API.csproj -c Release -o out
 
 # Utiliser l'image officielle .NET runtime pour exécuter l'application
-FROM mcr.microsoft.com/dotnet/aspnet:6.0-jammy
+FROM mcr.microsoft.com/dotnet/aspnet:8.0-jammy
 WORKDIR /app
 COPY --from=build /app/out .
 
