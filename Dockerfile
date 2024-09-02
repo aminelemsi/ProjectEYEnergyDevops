@@ -4,7 +4,7 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
 
 # Copier les fichiers .csproj et restaurer les dépendances
-COPY *.csproj ./
+COPY **/*.csproj ./
 RUN dotnet restore
 
 # Copier le reste des fichiers et compiler l'application
