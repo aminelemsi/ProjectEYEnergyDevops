@@ -8,13 +8,13 @@ steps:
 
 - script: |
     # Construire l'image Docker avec un tag
-    docker build -t aminelemsi/ProjectEYEnergyDevops:latest -f EY.Energy.API/Dockerfile .
+    docker build -t aminelemsi/project-ey-energydevops:latest -f EY.Energy.API/Dockerfile .
   displayName: 'Build Docker image'
 
 - task: Docker@2
   inputs:
     command: 'push'
     containerRegistry: 'docker-hub-connexion'
-    repository: 'aminelemsi/ProjectEYEnergyDevops'
+    repository: 'aminelemsi/project-ey-energydevops'
     tags: 'latest'
   displayName: 'Push Docker image to container registry'
