@@ -8,7 +8,7 @@ steps:
 
 - script: |
     # Construire l'image Docker avec un tag
-    docker build -t aminelemsi/ProjectEYEnergyDevops:latest .
+    docker build -t aminelemsi/ProjectEYEnergyDevops:latest -f EY.Energy.API/Dockerfile .
   displayName: 'Build Docker image'
 
 - task: Docker@2
