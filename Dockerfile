@@ -1,23 +1,26 @@
-# Utiliser l'image officielle .NET SDK pour construire l'application
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
+# Étape 1 : Construire l'application
+# Utilisation d'une image .NET SDK pour la compilation
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
 
 # Copier les fichiers .csproj et restaurer les dépendances
-COPY EY.Energy.API/*.csproj ./EY.Energy.API/
+COPY *.csproj ./
+RUN dotnet restore
 
-RUN dotnet restore EY.Energy.API/EY.Energy.API.csproj
-
-# Copier tout le code source et compiler l'application
+# Copier le reste des fichiers et compiler l'application
 COPY . ./
-RUN dotnet publish EY.Energy.API/EY.Energy.API.csproj -c Release -o out
+RUN dotnet publish -c Release -o out
 
-# Utiliser l'image officielle .NET runtime pour exécuter l'application
-FROM mcr.microsoft.com/dotnet/aspnet:6.0
+# Étape 2 : Créer l'image runtime
+# Utilisation d'une image runtime pour l'exécution de l'application
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS runtime
 WORKDIR /app
-COPY --from=build-env /app/out .
 
-# Exposer le port 80
+# Copier les fichiers compilés depuis l'étape de build
+COPY --from=build /app/out .
+
+# Exposer le port sur lequel l'application écoute
 EXPOSE 80
 
-# Commande d'exécution de l'application
+# Configurer le point d'entrée pour exécuter l'application
 ENTRYPOINT ["dotnet", "EY.Energy.API.dll"]
