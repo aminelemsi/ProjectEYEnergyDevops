@@ -1,0 +1,20 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+
+- script: |
+    # Construire l'image Docker avec un tag
+    docker build -t aminelemsi/ProjectEYEnergyDevops:latest .
+  displayName: 'Build Docker image'
+
+- task: Docker@2
+  inputs:
+    command: 'push'
+    containerRegistry: 'docker-hub-connexion'
+    repository: 'aminelemsi/ProjectEYEnergyDevops'
+    tags: 'latest'
+  displayName: 'Push Docker image to container registry'
