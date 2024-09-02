@@ -4,12 +4,12 @@ FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /app
 
 # Copier les fichiers .csproj et restaurer les dépendances
-COPY EY.Energy.API/*.csproj ./
+COPY **/*.csproj ./
 RUN dotnet restore
 
 # Copier le reste des fichiers et compiler l'application
 COPY . ./
-RUN dotnet publish -c Release -o out
+RUN dotnet publish EY.Energy.API.csproj -c Release -o out
 
 # Étape 2 : Créer l'image runtime
 # Utilisation d'une image runtime pour l'exécution de l'application
